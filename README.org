@@ -17,7 +17,7 @@ All contributions are welcome.
 
 To use this tap do:
 #+begin_src sh 
-  brew tap rkrug/dev-only
+  brew tap rkrug/devel-only
   brew install ...
 #+end_src
 
